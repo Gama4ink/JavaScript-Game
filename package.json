@@ -1,0 +1,19 @@
+{
+  "name": "javascript-game",
+  "version": "1.0.0",
+  "description": "A simple JavaScript inspired in the Subway Surfers game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Java",
+    "Script",
+    "ES6",
+    "html",
+    "html",
+    "canvas"
+  ],
+  "author": "Gama4ink <gama4ink@gmail.com>",
+  "license": "MIT"
+}
